@@ -127,6 +127,7 @@ To start:
 
 Please leave a [discussion](https://github.com/mrdbourke/pytorch-deep-learning/discussions) or send me an email directly: daniel (at) mrdbourke (dot) com.
 
+
 ## Log
 
 Almost daily updates of what's happening.
